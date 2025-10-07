@@ -1,2 +1,10 @@
 # Ung_dung_AI_trong_Hoc_
-Sử dụng công cụ AI để tạo nội dung học tập và đánh giá đạo đức (CLO12, CLO14).
+## Nguồn và Giấy phép
+
+### Infographic: Ứng dụng AI trong CNTT
+* **Công cụ tạo AI:** Canva Magic Design (Canva AI)
+* **Giấy phép:** Creative Commons Attribution 4.0 International (CC BY 4.0)
+* **Chú thích:** Infographic này được tạo ra bằng sự hỗ trợ của công cụ AI.
+
+### Tài liệu Đánh giá Đạo đức
+* **File:** [Phân tích đạo đức sử dụng AI.docx/pdf]
